@@ -1,0 +1,27 @@
+{
+    "name": "chat-cliente-servidor-",
+    "version": "1.0.0",
+    "description": "chat utilizando Node.js y Socket.io",
+    "main": "index.js",
+
+
+    "scripts":{
+        "test": "echo\"Error: no test specified\" && exit 1"
+        
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Kmartinez1/Chat-Cliente-Servidor-.git"
+
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kmartinez1/Chat-Cliente-Servidor-/issues"
+    },
+    "homepage": "https://github.com/Kmartinez1/Chat-Cliente-Servidor-#readme"
+
+
+
+}
